@@ -107,7 +107,7 @@ def log_in_user():
                 return '404'
     return render_template('login.html', form=form)
 ```
-## ↓ DIFT
+## ↓ DIFF
 ```python
 
 @authentication.route('/login_sec', methods=['GET', 'POST'])
