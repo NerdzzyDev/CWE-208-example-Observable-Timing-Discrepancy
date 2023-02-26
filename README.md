@@ -58,7 +58,7 @@ ___
   ```
 - Клонируйте данный репозиторий
    ```bash
-  git clone ...
+  git clone https://github.com/NerdzzyDev/CWE-208-example-Observable-Timing-Discrepancy
   ```
 - Установите зависимости
 
